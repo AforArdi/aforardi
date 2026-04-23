@@ -1,4 +1,4 @@
-![github-readme-pic](https://github.com/user-attachments/assets/94df1298-d832-4279-96de-93ad6656f7a4)
+<img width="1640" height="924" alt="github portfolio" src="https://github.com/user-attachments/assets/0ea0f2fe-6d8a-42d4-bf88-c6c94f7a01b2" />
 
 <h1 align="center">Hi 👋, I'm Ardi</h1>
 <h3 align="center">A dedicated frontend developer from Bangladesh</h3>
