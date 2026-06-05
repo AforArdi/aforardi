@@ -1,4 +1,4 @@
-<img width="1640" height="924" alt="github portfolio" src="https://github.com/user-attachments/assets/0ea0f2fe-6d8a-42d4-bf88-c6c94f7a01b2" />
+<img width="2000" height="718" alt="4" src="https://github.com/user-attachments/assets/592fc93a-6615-4fff-8cf5-6cff75e7644e" />
 
 # 💫 Hi, I'm Ardi:
 I'm a MERN stack developer from Bangladesh. 
