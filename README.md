@@ -34,11 +34,12 @@ I like building modern, responsive web applications. Always eager to tackle new 
 ## Recent Full Stack Projects:
 <p align="center">
   <img
-    src="https://drive.google.com/file/d/1vIwa3iswvYdnM2VfikQld3zAlOPKLJuL/view?usp=sharing"
+    src="https://github.com/user-attachments/assets/d57bea66-e4fa-4e2f-b32a-fb3f00a144d5"
     width="250"
     alt="Project Demo"
   />
 </p>
+
 
 <br />
 
