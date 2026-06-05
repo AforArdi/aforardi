@@ -38,7 +38,7 @@ I like building modern, responsive web applications. Always eager to tackle new 
 </p>
 <div align="center">
   <video width="250" autoplay loop muted playsinline>
-    <source src="https://github.com/user-attachments/assets/0fdea634-6c74-4ae4-bc12-fcadef58ce89" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/0fdea634-6c74-4ae4-bc12-fcadef58ce89">
   </video>
   <!-- &nbsp;&nbsp;
   <video width="250" autoplay loop muted playsinline>
