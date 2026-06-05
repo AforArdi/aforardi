@@ -36,7 +36,7 @@ I like building modern, responsive web applications. Always eager to tackle new 
   <!-- Replace GIF with your own or static screenshots -->
   <!-- <img src="https://github.com/user-attachments/assets/0fdea634-6c74-4ae4-bc12-fcadef58ce89" width="250" alt="Project One Demo"/> -->
   <video width="250" autoplay loop muted playsinline>
-  <source src="https://github.com/user-attachments/assets/YOUR-VIDEO-LINK-HERE" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/0fdea634-6c74-4ae4-bc12-fcadef58ce89" type="video/mp4">
 </video>
 </p>
 
