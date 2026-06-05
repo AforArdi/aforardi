@@ -32,7 +32,10 @@ I like building modern, responsive web applications. Always eager to tackle new 
 <br />
 
 ## Recent Full Stack Projects:
-<img width="576" height="1020" alt="hero-ride" src="https://github.com/user-attachments/assets/ea6b9b4c-aa78-4bdf-9c28-90db641d7ab3" />
+<p align="center">
+  <!-- Replace GIF with your own or static screenshots -->
+  <img src="https://github.com/user-attachments/assets/0fdea634-6c74-4ae4-bc12-fcadef58ce89" width="150" alt="Project One Demo"/>
+</p>
 
 <br />
 
