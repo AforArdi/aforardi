@@ -1,8 +1,10 @@
 <div align="center">
 
+<img width="2000" height="718" alt="4" src="https://github.com/user-attachments/assets/592fc93a-6615-4fff-8cf5-6cff75e7644e" />
+
 # 💫 Hi, I'm Ardi
 
-I'm a student and passionate web development learner from Bangladesh. I am currently documenting my 180-day coding journey in public, focusing on building modern, responsive web applications. Having recently completed Harvard's CS50, I'm always eager to tackle new challenges, master new technologies, and grow as a developer!
+Focusing on building modern, responsive web applications. Always eager to tackle new challenges, master new technologies, and grow as a developer!
 
 <br />
 
