@@ -4,7 +4,7 @@
 
 # 💫 Hi, I'm Ardi
 
-Focusing on building modern, responsive web applications. Always eager to tackle new challenges, master new technologies, and grow as a developer!
+I like building modern, responsive web applications. Always eager to tackle new challenges, master new technologies, and grow as a developer!
 
 <br />
 
