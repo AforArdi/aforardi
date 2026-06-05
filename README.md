@@ -12,7 +12,7 @@ I like building modern, responsive web applications. Always eager to tackle new 
 
 <br />
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,7 +31,12 @@ I like building modern, responsive web applications. Always eager to tackle new 
 
 <br />
 
-## 📊 GitHub Stats:
+## Recent Full Stack Projects:
+<img width="576" height="1020" alt="hero-ride" src="https://github.com/user-attachments/assets/ea6b9b4c-aa78-4bdf-9c28-90db641d7ab3" />
+
+<br />
+
+## GitHub Stats:
 
 <img src="https://github-readme-stats.shion.dev/api?username=AforArdi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Ardi's GitHub Stats" />
 <br/>
@@ -41,7 +46,7 @@ I like building modern, responsive web applications. Always eager to tackle new 
 
 ---
 
-## 🌐 Connect With Me:
+## Connect With Me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/miftahulislamardi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-ardi)
