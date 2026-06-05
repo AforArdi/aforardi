@@ -2,7 +2,7 @@
 
 <img width="2000" height="718" alt="4" src="https://github.com/user-attachments/assets/592fc93a-6615-4fff-8cf5-6cff75e7644e" />
 
-# 💫 Hi, I'm Ardi
+# Hi, I'm Ardi
 
 I like building modern, responsive web applications. Always eager to tackle new challenges, master new technologies, and grow as a DEVELOPER!
 
