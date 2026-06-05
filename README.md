@@ -1,7 +1,7 @@
 <img width="1640" height="924" alt="github portfolio" src="https://github.com/user-attachments/assets/0ea0f2fe-6d8a-42d4-bf88-c6c94f7a01b2" />
 
-# 💫 About Me:
-I'm a MERN stack learner from Bangladesh
+# 💫 Hi, I'm Ardi:
+I'm a MERN stack developer from Bangladesh. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aforardi&label=Profile%20views&color=0e75b6&style=flat" alt="aforardi" /> </p>
 
