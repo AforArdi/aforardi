@@ -32,17 +32,6 @@ I like building modern, responsive web applications. Always eager to tackle new 
 
 <br />
 
-## Recent Full Stack Projects:
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/be1a84ab-0d3d-4454-8e17-cefe0974d3eb"
-    width="250"
-    alt="Project Demo"
-  />
-</p>
-
-<br />
-
 ## GitHub Stats:
 
 <img src="https://github-readme-stats.shion.dev/api?username=AforArdi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Ardi's GitHub Stats" />
