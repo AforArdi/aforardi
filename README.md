@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2000" height="718" alt="MOHAMMAD ARDI" src="https://github.com/user-attachments/assets/53ccce18-a2a0-46a1-a92d-3a555b50cddb" />
+<img width="1280" height="400" alt="MOHAMMAD ARDI (1)" src="https://github.com/user-attachments/assets/49c502d2-ea25-41f2-b87d-4b1af8d32f80" />
 
 # Hi, I'm Mohammad Ardi
 
